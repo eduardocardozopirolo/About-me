@@ -30,5 +30,5 @@
 		<hr></hr>
 		<h3>Conclusão</h3>
 		<ul>
-			<li>Espero que possa fazer parte do seu time! ajudando a criar Tecnologias</li>
+			<li>Espero que possa fazer parte do seu time! Ajudando a desenvolver a empresa</li>
 		</ul>
