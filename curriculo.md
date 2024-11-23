@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<h1>Eduardo Cardozo Pirolo</h1>
-		<p>brasileiro, 21 anos, Atualmente moro em São Paulo capital. <a href="https://www.linkedin.com/in/eduardocardozopirolo/">Linkedin</a></p>
+		<p>Brasileiro, 21 anos, Atualmente moro em São Paulo capital. <a href="https://www.linkedin.com/in/eduardocardozopirolo/">Linkedin</a></p>
 		<hr></hr>
 		<h3>Ambição</h3>
 		<ul>
