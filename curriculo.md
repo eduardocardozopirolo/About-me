@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<h1>Eduardo Cardozo Pirolo</h1>
-		<p>Brasileiro, 21 anos, Atualmente moro em São Paulo capital. <a href="https://www.linkedin.com/in/eduardocardozopirolo/">Linkedin</a></p>
+		<p>Brasileiro, 22 anos, Atualmente moro em São Paulo capital. <a href="https://www.linkedin.com/in/eduardocardozopirolo/">Linkedin</a></p>
 		<hr></hr>
 		<h3>Ambição</h3>
 		<ul>
@@ -30,5 +30,5 @@
 		<hr></hr>
 		<h3>Conclusão</h3>
 		<ul>
-			<li>Espero que possa fazer parte do seu time! Ajudando a desenvolver a empresa</li>
+			<li>Espero que possa fazer parte do seu time! Ajudando a desenvolver novas tecnologias</li>
 		</ul>
